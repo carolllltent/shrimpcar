@@ -1,2 +1,2 @@
 # shrimpcar
-Spinning shrimp cat 
+Spinning shrimp cat is made out of keyboard characters!
